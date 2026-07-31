@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Tsion Eshetu
 
-<!--
-**tsionfisseha/tsionfisseha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Aerospace Engineering Background
 
-Here are some ideas to get you started:
+I am a data analyst transitioning from aerospace engineering, combining engineering problem-solving skills with data analytics, machine learning, and visualization to solve real-world business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background includes designing and testing aerospace systems, analyzing engineering data, and applying Python-based analytics to extract meaningful insights.
+
+---
+
+## Technical Skills
+
+### Programming & Data Analysis
+- Python
+- SQL
+- Pandas
+- NumPy
+- Excel
+- Jupyter Notebook
+
+### Visualization & BI
+- Power BI
+- Matplotlib
+- Seaborn
+- Data Storytelling
+
+### Machine Learning
+- Scikit-learn
+- Regression Modeling
+- Feature Engineering
+- Predictive Analytics
+
+### Engineering Tools
+- SolidWorks
+- CATIA
+- Engineering Testing & Data Analysis
+
+---
+
+## Featured Projects
+
+### Aircraft Engine Predictive Maintenance
+
+Machine learning project predicting aircraft engine Remaining Useful Life (RUL) using NASA C-MAPSS sensor data.
+
+**Tools:**
+Python | Pandas | Scikit-learn | Random Forest | Data Visualization
+
+Highlights:
+- Built predictive maintenance model
+- Performed exploratory data analysis
+- Engineered RUL features
+- Evaluated model performance using MAE and RMSE
+
+Project Repository:
+https://github.com/tsionfisseha/aircraft-maintenance-analysis
+
+---
+
+## Currently Building
+
+- Business intelligence dashboards
+- SQL analytics projects
+- Data visualization portfolios
+- Real-world analytics case studies
+
+---
+
+## Connect With Me
+
+LinkedIn: Add your LinkedIn URL here
+
+GitHub:
+https://github.com/tsionfisseha
