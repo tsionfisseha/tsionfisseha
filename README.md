@@ -2,7 +2,7 @@
 
 ## Data Analyst | Aerospace Engineering Background
 
-I am a data analyst transitioning from aerospace engineering, combining engineering problem-solving skills with data analytics, machine learning, and visualization to solve real-world business problems.
+Aspiring Data Analyst specializing in Python, SQL, Power BI, and machine learning. I am a data analyst transitioning from aerospace engineering, combining engineering problem-solving skills with data analytics, machine learning, and visualization to solve real-world business problems.
 
 My background includes designing and testing aerospace systems, analyzing engineering data, and applying Python-based analytics to extract meaningful insights.
 
@@ -55,20 +55,36 @@ Highlights:
 Project Repository:
 https://github.com/tsionfisseha/aircraft-maintenance-analysis
 
+### Retail Sales Analytics Dashboard
+
+SQL and Power BI project analyzing retail sales performance using the Superstore dataset.
+
+**Tools**
+SQL | SQLite | Power BI | Excel
+
+Highlights:
+
+Built an interactive executive sales dashboard
+Analyzed sales trends, regional performance, and product profitability
+Created SQL queries to answer business questions
+Identified top-performing categories and products
+
+Project Repository: https://github.com/tsionfisseha/superstore-sales-dashboard
+
 ---
 
-## Currently Building
+## Portfolio Focus Areas
 
-- Business intelligence dashboards
-- SQL analytics projects
-- Data visualization portfolios
-- Real-world analytics case studies
+Business intelligence dashboards
+SQL analytics projects
+Data visualization and storytelling
+Machine learning applications
+Real-world analytics case studies
 
 ---
 
 ## Connect With Me
 
-LinkedIn: Add your LinkedIn URL here
+Email: tsionfisseha39@gmail.com
 
-GitHub:
-https://github.com/tsionfisseha
+GitHub: https://github.com/tsionfisseha
