@@ -55,6 +55,8 @@ Python | Pandas | Scikit-learn | Random Forest | Data Visualization
 Project Repository:
 https://github.com/tsionfisseha/aircraft-maintenance-analysis
 
+---
+
 ### Retail Sales Analytics Dashboard
 
 SQL and Power BI project analyzing retail sales performance using the Superstore dataset.
@@ -71,6 +73,8 @@ SQL | SQLite | Power BI | Excel
 
 Project Repository: 
 https://github.com/tsionfisseha/superstore-sales-dashboard
+
+---
 
 ### Customer Churn Analysis Dashboard
 
