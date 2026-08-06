@@ -93,11 +93,11 @@ https://github.com/tsionfisseha/customer-churn-analysis-dashboard
 
 ## Portfolio Focus Areas
 
-Business intelligence dashboards
-SQL analytics projects
-Data visualization and storytelling
-Machine learning applications
-Real-world analytics case studies
+- Business intelligence dashboards
+- SQL analytics projects
+- Data visualization and storytelling
+- Machine learning applications
+- Real-world analytics case studies
 
 ---
 
