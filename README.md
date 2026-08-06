@@ -35,7 +35,6 @@ My background includes designing and testing aerospace systems, analyzing engine
 - CATIA
 - Engineering Testing & Data Analysis
 
----
 
 ## Featured Projects
 
@@ -55,7 +54,6 @@ Python | Pandas | Scikit-learn | Random Forest | Data Visualization
 Project Repository:
 https://github.com/tsionfisseha/aircraft-maintenance-analysis
 
----
 
 ### Retail Sales Analytics Dashboard
 
@@ -74,7 +72,6 @@ SQL | SQLite | Power BI | Excel
 Project Repository: 
 https://github.com/tsionfisseha/superstore-sales-dashboard
 
----
 
 ### Customer Churn Analysis Dashboard
 
