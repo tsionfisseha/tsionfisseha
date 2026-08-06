@@ -46,7 +46,7 @@ Machine learning project predicting aircraft engine Remaining Useful Life (RUL) 
 **Tools:**
 Python | Pandas | Scikit-learn | Random Forest | Data Visualization
 
-Highlights:
+**Highlights:**
 - Built predictive maintenance model
 - Performed exploratory data analysis
 - Engineered RUL features
@@ -62,14 +62,32 @@ SQL and Power BI project analyzing retail sales performance using the Superstore
 **Tools**
 SQL | SQLite | Power BI | Excel
 
-Highlights:
+**Highlights:**
 
-Built an interactive executive sales dashboard
-Analyzed sales trends, regional performance, and product profitability
-Created SQL queries to answer business questions
-Identified top-performing categories and products
+- Built an interactive executive sales dashboard
+- Analyzed sales trends, regional performance, and product profitability
+- Created SQL queries to answer business questions
+- Identified top-performing categories and products
 
-Project Repository: https://github.com/tsionfisseha/superstore-sales-dashboard
+Project Repository: 
+https://github.com/tsionfisseha/superstore-sales-dashboard
+
+### Customer Churn Analysis Dashboard
+
+Business intelligence project analyzing customer churn patterns using the Telco Customer Churn dataset.
+
+**Tools**
+Google Sheets | Pivot Tables | Interactive Charts | Data Visualization
+
+**Highlights:**
+
+- Analyzed customer churn drivers and retention patterns
+- Built an executive-style dashboard with KPI cards and interactive charts
+- Identified high-risk customer segments
+- Presented insights to support customer retention strategies
+
+Project Repository: 
+https://github.com/tsionfisseha/customer-churn-analysis-dashboard
 
 ---
 
