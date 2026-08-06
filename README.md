@@ -2,9 +2,11 @@
 
 ## Data Analyst | Aerospace Engineering Background
 
-Aspiring Data Analyst specializing in Python, SQL, Power BI, and machine learning. I am a data analyst transitioning from aerospace engineering, combining engineering problem-solving skills with data analytics, machine learning, and visualization to solve real-world business problems.
+Data Analyst specializing in Python, SQL, Power BI, and machine learning, with an aerospace engineering background focused on data-driven problem solving and analytical decision-making.
 
-My background includes designing and testing aerospace systems, analyzing engineering data, and applying Python-based analytics to extract meaningful insights.
+I combine engineering expertise with data analytics to transform complex datasets into actionable insights. My experience designing and testing aerospace systems, analyzing performance data, and applying Python-based analytics has strengthened my ability to identify trends, build predictive models, and communicate insights through visualization.
+
+Currently focused on developing analytics solutions that support business intelligence, operational improvements, and data-driven decision-making.
 
 ---
 
@@ -20,6 +22,7 @@ My background includes designing and testing aerospace systems, analyzing engine
 
 ### Visualization & BI
 - Power BI
+- DAX
 - Matplotlib
 - Seaborn
 - Data Storytelling
@@ -59,7 +62,7 @@ https://github.com/tsionfisseha/aircraft-maintenance-analysis
 
 SQL and Power BI project analyzing retail sales performance using the Superstore dataset.
 
-**Tools**
+**Tools:**
 SQL | SQLite | Power BI | Excel
 
 **Highlights:**
@@ -77,7 +80,7 @@ https://github.com/tsionfisseha/superstore-sales-dashboard
 
 Business intelligence project analyzing customer churn patterns using the Telco Customer Churn dataset.
 
-**Tools**
+**Tools:**
 Google Sheets | Pivot Tables | Interactive Charts | Data Visualization
 
 **Highlights:**
@@ -97,7 +100,7 @@ https://github.com/tsionfisseha/customer-churn-analysis-dashboard
 - Business intelligence dashboards
 - SQL analytics projects
 - Data visualization and storytelling
-- Machine learning applications
+- Predictive analytics
 - Real-world analytics case studies
 
 ---
